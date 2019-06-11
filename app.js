@@ -19,6 +19,6 @@ http.createServer((req, res) => {
         }
         
         // res.end();
-}).listen(3000);
+}).listen(80);
 
-console.log("service running on 3000 port....");
+console.log("service running on 80 port....");
