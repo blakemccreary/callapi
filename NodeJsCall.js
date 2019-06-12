@@ -1,7 +1,7 @@
 
 const https = require('https');
  
-_EXTERNAL_URL = 'https://test-proj-heroku.herokuapp.com/api/plans';
+_EXTERNAL_URL = 'https://json-prod-someapp-vhjnuefaow.web.kintohub.com/index.json';
 
 
 const callExternalApiUsingHttp = (callback) => {
